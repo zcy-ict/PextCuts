@@ -5,7 +5,9 @@ The code is for the paper on IWQoS 2022
 
 If there are any problems or bugs, welcome to discuss with me
 
-zhangchunyang@ict.ac.cn or zhangchunyangict@sina.com
+zhangchunyang@ict.ac.cn
+
+zhangchunyangict@outlook.com
 
 ## Experimental environment
 
